@@ -39,7 +39,7 @@ Design a two-wheel robot that can be controlled wirelessly using a Bluetooth gam
 | P | Pause |
 
 ## Circuit Diagram
-![Circuit Diagram](circuit/circuit.png)
+![Circuit Diagram](https://isparklearning.com/assets/images/logo-dark.png)
 
 ## Working Explanation
 The Arduino receives control commands from a Bluetooth gamepad through the HC-05 module. Based on the received command, motor direction pins of the L298N driver are controlled to move the robot forward, backward, left, right, or stop.
